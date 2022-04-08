@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "sms-native",
+    "slug": "sms-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
